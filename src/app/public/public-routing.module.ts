@@ -24,7 +24,7 @@ const routes: Routes = [
   { path: 'project-details', component: ProjectDetailsComponent },
   { path: 'service', component: ServiceComponent },
   { path: 'service-details', component: ServiceDetailsComponent },
-  { path: 'team-detailss', component: TeamDetailsComponent },
+  { path: 'team-details', component: TeamDetailsComponent },
 ];
 
 
